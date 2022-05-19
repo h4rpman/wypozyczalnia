@@ -1,0 +1,7 @@
+{* Smarty *}
+
+<footer>
+
+footer
+
+</footer>

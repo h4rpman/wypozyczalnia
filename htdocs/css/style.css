@@ -1,0 +1,29 @@
+header {
+    margin-bottom: 15px;
+    border: 1px black solid;
+}
+
+#panel {
+    display: block;
+    width:150px;
+    margin-left: auto;
+    text-align: right;
+}
+
+form {
+    max-width:70%;
+}
+
+.error {
+ margin: 0 auto;
+ padding:5px;
+ width:50%;
+ text-align: center;
+ background-color:#ff9292;
+ color: red;   
+}
+
+footer {
+    margin-top: 15px;
+    border: 1px black solid;
+}
